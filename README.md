@@ -1,6 +1,5 @@
 # Hello Virtual Assistant
 
-[![Logo](logo.png)](logo.png)
 
 A **browser-based voice-activated personal assistant** built with HTML, CSS, and vanilla JavaScript. Speak commands to open websites, get weather, time, jokes, calculate math, and more! No installation required – just open in your browser.
 
